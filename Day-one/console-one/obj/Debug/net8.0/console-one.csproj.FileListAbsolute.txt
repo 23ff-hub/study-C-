@@ -1,0 +1,14 @@
+D:\Desktop\practice\Day-one\console-one\bin\Debug\net8.0\console-one.exe
+D:\Desktop\practice\Day-one\console-one\bin\Debug\net8.0\console-one.deps.json
+D:\Desktop\practice\Day-one\console-one\bin\Debug\net8.0\console-one.runtimeconfig.json
+D:\Desktop\practice\Day-one\console-one\bin\Debug\net8.0\console-one.dll
+D:\Desktop\practice\Day-one\console-one\bin\Debug\net8.0\console-one.pdb
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.AssemblyInfoInputs.cache
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.AssemblyInfo.cs
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.csproj.CoreCompileInputs.cache
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.dll
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\refint\console-one.dll
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.pdb
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\console-one.genruntimeconfig.cache
+D:\Desktop\practice\Day-one\console-one\obj\Debug\net8.0\ref\console-one.dll
