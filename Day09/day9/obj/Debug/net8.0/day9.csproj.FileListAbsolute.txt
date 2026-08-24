@@ -1,0 +1,15 @@
+D:\Desktop\study-C#\Day9\day9\bin\Debug\net8.0\day9.exe
+D:\Desktop\study-C#\Day9\day9\bin\Debug\net8.0\day9.deps.json
+D:\Desktop\study-C#\Day9\day9\bin\Debug\net8.0\day9.runtimeconfig.json
+D:\Desktop\study-C#\Day9\day9\bin\Debug\net8.0\day9.dll
+D:\Desktop\study-C#\Day9\day9\bin\Debug\net8.0\day9.pdb
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.AssemblyInfoInputs.cache
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.AssemblyInfo.cs
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.csproj.CoreCompileInputs.cache
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.sourcelink.json
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.dll
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\refint\day9.dll
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.pdb
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\day9.genruntimeconfig.cache
+D:\Desktop\study-C#\Day9\day9\obj\Debug\net8.0\ref\day9.dll

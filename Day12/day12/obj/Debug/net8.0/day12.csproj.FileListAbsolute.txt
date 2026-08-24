@@ -1,0 +1,15 @@
+D:\Desktop\day21-C#\Day12\day12\bin\Debug\net8.0\day12.exe
+D:\Desktop\day21-C#\Day12\day12\bin\Debug\net8.0\day12.deps.json
+D:\Desktop\day21-C#\Day12\day12\bin\Debug\net8.0\day12.runtimeconfig.json
+D:\Desktop\day21-C#\Day12\day12\bin\Debug\net8.0\day12.dll
+D:\Desktop\day21-C#\Day12\day12\bin\Debug\net8.0\day12.pdb
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.AssemblyInfoInputs.cache
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.AssemblyInfo.cs
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.csproj.CoreCompileInputs.cache
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.sourcelink.json
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.dll
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\refint\day12.dll
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.pdb
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\day12.genruntimeconfig.cache
+D:\Desktop\day21-C#\Day12\day12\obj\Debug\net8.0\ref\day12.dll

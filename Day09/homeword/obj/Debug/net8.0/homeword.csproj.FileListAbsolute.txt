@@ -1,0 +1,15 @@
+D:\Desktop\study-C#\Day9\homeword\bin\Debug\net8.0\homeword.exe
+D:\Desktop\study-C#\Day9\homeword\bin\Debug\net8.0\homeword.deps.json
+D:\Desktop\study-C#\Day9\homeword\bin\Debug\net8.0\homeword.runtimeconfig.json
+D:\Desktop\study-C#\Day9\homeword\bin\Debug\net8.0\homeword.dll
+D:\Desktop\study-C#\Day9\homeword\bin\Debug\net8.0\homeword.pdb
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.AssemblyInfoInputs.cache
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.AssemblyInfo.cs
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.csproj.CoreCompileInputs.cache
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.sourcelink.json
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.dll
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\refint\homeword.dll
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.pdb
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\homeword.genruntimeconfig.cache
+D:\Desktop\study-C#\Day9\homeword\obj\Debug\net8.0\ref\homeword.dll

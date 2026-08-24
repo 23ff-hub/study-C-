@@ -1,0 +1,15 @@
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.AssemblyInfoInputs.cache
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.AssemblyInfo.cs
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.csproj.CoreCompileInputs.cache
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.sourcelink.json
+D:\Desktop\study-C#\Day8\day8\bin\Debug\net8.0\day8.exe
+D:\Desktop\study-C#\Day8\day8\bin\Debug\net8.0\day8.deps.json
+D:\Desktop\study-C#\Day8\day8\bin\Debug\net8.0\day8.runtimeconfig.json
+D:\Desktop\study-C#\Day8\day8\bin\Debug\net8.0\day8.dll
+D:\Desktop\study-C#\Day8\day8\bin\Debug\net8.0\day8.pdb
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.dll
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\refint\day8.dll
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.pdb
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\day8.genruntimeconfig.cache
+D:\Desktop\study-C#\Day8\day8\obj\Debug\net8.0\ref\day8.dll

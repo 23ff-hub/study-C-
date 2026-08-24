@@ -1,0 +1,15 @@
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\bin\Debug\net10.0\homework.exe
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\bin\Debug\net10.0\homework.deps.json
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\bin\Debug\net10.0\homework.runtimeconfig.json
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\bin\Debug\net10.0\homework.dll
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\bin\Debug\net10.0\homework.pdb
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.AssemblyInfoInputs.cache
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.AssemblyInfo.cs
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.sourcelink.json
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.dll
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\refint\homework.dll
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.pdb
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\homework.genruntimeconfig.cache
+C:\Users\struggle\Desktop\study-C#\Day4\homework\homework\obj\Debug\net10.0\ref\homework.dll

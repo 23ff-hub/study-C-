@@ -1,0 +1,15 @@
+D:\Desktop\study-C#\Day8\homework\bin\Debug\net8.0\homework.exe
+D:\Desktop\study-C#\Day8\homework\bin\Debug\net8.0\homework.deps.json
+D:\Desktop\study-C#\Day8\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+D:\Desktop\study-C#\Day8\homework\bin\Debug\net8.0\homework.dll
+D:\Desktop\study-C#\Day8\homework\bin\Debug\net8.0\homework.pdb
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.sourcelink.json
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.dll
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\refint\homework.dll
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.pdb
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+D:\Desktop\study-C#\Day8\homework\obj\Debug\net8.0\ref\homework.dll

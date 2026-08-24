@@ -1,0 +1,14 @@
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\homework.exe
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\homework.deps.json
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\homework.runtimeconfig.json
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\homework.dll
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\homework.pdb
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.AssemblyInfoInputs.cache
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.AssemblyInfo.cs
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.csproj.CoreCompileInputs.cache
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.dll
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\refint\homework.dll
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.pdb
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\homework.genruntimeconfig.cache
+D:\Desktop\day21-C#\Day12\homework\obj\Release\net8.0\ref\homework.dll

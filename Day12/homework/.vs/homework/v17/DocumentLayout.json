@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\day21-C#\\Day12\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28659FF9-AAE5-4965-9CE4-3087A1718CD7}|homework.csproj|d:\\desktop\\day21-c#\\day12\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28659FF9-AAE5-4965-9CE4-3087A1718CD7}|homework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28659FF9-AAE5-4965-9CE4-3087A1718CD7}|homework.csproj|d:\\desktop\\day21-c#\\day12\\homework\\bookfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28659FF9-AAE5-4965-9CE4-3087A1718CD7}|homework.csproj|solutionrelative:bookfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookFunction.cs",
+              "DocumentMoniker": "D:\\Desktop\\day21-C#\\Day12\\homework\\BookFunction.cs",
+              "RelativeDocumentMoniker": "BookFunction.cs",
+              "ToolTip": "D:\\Desktop\\day21-C#\\Day12\\homework\\BookFunction.cs",
+              "RelativeToolTip": "BookFunction.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:31:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\day21-C#\\Day12\\homework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktop\\day21-C#\\Day12\\homework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:23:21.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

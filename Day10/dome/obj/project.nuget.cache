@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2XBmMCCBeg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\struggle\\Desktop\\study-C#\\Day4\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\struggle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\struggle\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\struggle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\struggle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "获取包漏洞数据时出错: 无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
+      "projectPath": "C:\\Users\\struggle\\Desktop\\study-C#\\Day4\\ConsoleApp1\\ConsoleApp1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\struggle\\Desktop\\study-C#\\Day4\\ConsoleApp1\\ConsoleApp1.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

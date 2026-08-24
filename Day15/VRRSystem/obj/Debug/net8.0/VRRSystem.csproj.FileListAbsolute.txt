@@ -1,0 +1,14 @@
+D:\Desktop\day21-C#\Day15\VRRSystem\bin\Debug\net8.0\VRRSystem.exe
+D:\Desktop\day21-C#\Day15\VRRSystem\bin\Debug\net8.0\VRRSystem.deps.json
+D:\Desktop\day21-C#\Day15\VRRSystem\bin\Debug\net8.0\VRRSystem.runtimeconfig.json
+D:\Desktop\day21-C#\Day15\VRRSystem\bin\Debug\net8.0\VRRSystem.dll
+D:\Desktop\day21-C#\Day15\VRRSystem\bin\Debug\net8.0\VRRSystem.pdb
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.AssemblyInfoInputs.cache
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.AssemblyInfo.cs
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.dll
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\refint\VRRSystem.dll
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.pdb
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\VRRSystem.genruntimeconfig.cache
+D:\Desktop\day21-C#\Day15\VRRSystem\obj\Debug\net8.0\ref\VRRSystem.dll

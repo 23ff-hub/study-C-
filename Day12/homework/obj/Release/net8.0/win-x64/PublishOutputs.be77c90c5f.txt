@@ -1,0 +1,2 @@
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\publish\win-x64\homework.pdb
+D:\Desktop\day21-C#\Day12\homework\bin\Release\net8.0\publish\win-x64\homework.exe
