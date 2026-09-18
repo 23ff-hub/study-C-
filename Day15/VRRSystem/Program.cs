@@ -9,6 +9,7 @@
             CarManger CM = new CarManger();
             CustomerManger CMS = new CustomerManger();
             RecordCar RC = new RecordCar();
+            ReturnCar returnCar = new ReturnCar();
             while (str != "0") 
             {
                 str = Console.ReadLine();
@@ -40,7 +41,7 @@
                         RC.recordAdd();
                         break;
                     case "9":
-                        Console.WriteLine("1：新增车辆");
+                        returnCar.returnCar();
                         break;
                     case "0":
                         Console.WriteLine("退出成功");
@@ -64,7 +65,7 @@
             Console.WriteLine("6：查看所有客户");
             Console.WriteLine("7：查看某个客户");
             Console.WriteLine("8：租车");
-            Console.WriteLine("9：换车");
+            Console.WriteLine("9：还车");
             Console.WriteLine("0：退出系统");
         }       
 

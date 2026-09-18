@@ -22,9 +22,9 @@ namespace VRRSystem
         {
             Console.WriteLine("请输入id");
             int recordid = int.Parse(Console.ReadLine());
-            Console.WriteLine("要添加的车辆id");
+            Console.WriteLine("要租的车辆id");
             int carId = int.Parse(Console.ReadLine());
-            Console.WriteLine("要添加的客户id");
+            Console.WriteLine("要租的客户id");
             int cusId = int.Parse(Console.ReadLine());
             DateTime dateTime = DateTime.Now;
             List<recordCar> recordCars = new();
@@ -62,6 +62,7 @@ namespace VRRSystem
             recordCars.Add(dic);
             var newObj = JsonSerializer.Serialize<List<recordCar>>(recordCars, JsonOpt);
             File.WriteAllText(Path,newObj);
+            Console.WriteLine("租车成功");
         }
     }
 }
